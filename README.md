@@ -1,24 +1,18 @@
 Economic Sales Data Analysis
-This project involves a comprehensive analysis of sales data to gain insights into economic trends and sales performance. It covers data wrangling, exploratory data analysis (EDA), and visualization using multiple tools:
+This project analyzes sales data to extract valuable insights using data wrangling, SQL, and visualization tools.
 
-Project Overview
-Jupyter Notebook (EDA & SQL):
+Overview
+Jupyter Notebook:
 
-Data Cleaning & Preparation:
-Handled missing values, converted data types, and calculated new metrics such as profit and profit margin.
-Categorized customer ages into groups for better segmentation analysis.
-SQL Queries:
-Analyzed sales performance across different years, product categories, and customer demographics.
-Queried top products, total sales by year, and profit distribution by various factors.
+Cleaned and prepared data, calculated key metrics like profit and profit margin.
+Executed SQL queries to analyze sales by year, product, and demographics.
 Power BI Dashboard:
 
-Visualizations:
-Created a dynamic and interactive dashboard showing key metrics like total revenue, cost, profit, and quantity sold.
-Visualized insights on profit distribution by customer age group, gender, product sub-categories, and top states.
-Included slicers for easy filtering by year and product category.
-Tools Used
-Jupyter Notebook: Data cleaning, EDA, and SQL querying.
-Power BI: Interactive data visualization and dashboard creation.
-SQLite: For efficient database querying.
-The goal of this project was to extract valuable business insights from raw sales data, optimize decision-making, and present findings through easy-to-understand visualizations.
+Visualized key metrics and trends, including revenue, cost, and profit.
+Used slicers for easy filtering by year and product category.
+Tools
+Jupyter Notebook (EDA & SQL)
+Power BI (Interactive Visualizations)
+SQLite (Database Management)
+
 
